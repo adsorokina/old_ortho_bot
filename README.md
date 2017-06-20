@@ -1,2 +1,2 @@
-@ old_ortho_bot
+@old_ortho_bot
 Экзаменационный проект, 2 курс
